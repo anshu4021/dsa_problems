@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public void moveZeroes(int[] nums) {
        int n = nums.length ;
         int pos = 0;
@@ -12,8 +12,8 @@ class Solution {
             
         }
     }
-}
-/*class Solution {
+}*/
+class Solution {
     public void moveZeroes(int[] nums) {
        int n = nums.length ;
         int pos = 0;
@@ -27,4 +27,4 @@ class Solution {
                 nums[i]=0;
             }
     }
-}*/
+}
