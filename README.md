@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshu4021/dsa_problems/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
