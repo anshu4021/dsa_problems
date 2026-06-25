@@ -14,11 +14,13 @@ class Solution {
             if (leftSquare > rightSquare) {
                 result[k] = leftSquare;
                 left++;
+                 k--;
             } else {
                 result[k] = rightSquare;
                 right--;
+                 k--;
             }
-            k--;
+           
         }
         return result;
     }
