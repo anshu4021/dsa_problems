@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anshu4021/dsa_problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/anshu4021/dsa_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0088-merge-sorted-array) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anshu4021/dsa_problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshu4021/dsa_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/anshu4021/dsa_problems/tree/master/0075-sort-colors) |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anshu4021/dsa_problems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/anshu4021/dsa_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0977-squares-of-a-sorted-array) |
