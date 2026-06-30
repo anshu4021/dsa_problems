@@ -14,8 +14,7 @@ class Solution {
         }}
         if(answer== Integer.MAX_VALUE){
             return 0;
-        }else{
-            return answer;
-        }
+        }else   return answer;
+        
     }
 }
