@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshu4021/dsa_problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/anshu4021/dsa_problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/anshu4021/dsa_problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshu4021/dsa_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,4 +64,13 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/anshu4021/dsa_problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
