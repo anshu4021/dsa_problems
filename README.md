@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/anshu4021/dsa_problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/anshu4021/dsa_problems/tree/master/0283-move-zeroes) |
+| [0904-fruit-into-baskets](https://github.com/anshu4021/dsa_problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshu4021/dsa_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshu4021/dsa_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/anshu4021/dsa_problems/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/anshu4021/dsa_problems/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
