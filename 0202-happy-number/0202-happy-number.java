@@ -5,11 +5,8 @@ class Solution {
         
         int slow = n;
         int fast = n;
-//while loop is not used here because initially slow and 
-//fast pointer will be equal only, so the loop won't run.
-        do {
-//slow moving one step ahead and fast moving two steps ahead
 
+        do {
             slow = square(slow);
             fast = square(square(fast));
         } while (slow != fast);
