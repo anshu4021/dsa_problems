@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/anshu4021/dsa_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshu4021/dsa_problems/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/anshu4021/dsa_problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/anshu4021/dsa_problems/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshu4021/dsa_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/anshu4021/dsa_problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshu4021/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
