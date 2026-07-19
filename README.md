@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/anshu4021/dsa_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshu4021/dsa_problems/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/anshu4021/dsa_problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anshu4021/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anshu4021/dsa_problems/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@
 | [0202-happy-number](https://github.com/anshu4021/dsa_problems/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/anshu4021/dsa_problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anshu4021/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anshu4021/dsa_problems/tree/master/0904-fruit-into-baskets) |
@@ -166,5 +168,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshu4021/dsa_problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
