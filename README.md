@@ -131,6 +131,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anshu4021/dsa_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Queue
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshu4021/dsa_problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anshu4021/dsa_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
