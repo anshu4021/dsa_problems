@@ -3,13 +3,10 @@ class Solution {
     class Pair {
         char ch;
         int count;
-
         Pair(char ch, int count) {
             this.ch = ch;
             this.count = count;
-        }
-    }
-
+        }}
     public String removeDuplicates(String s, int k) {
 
         Stack<Pair> stack = new Stack<>();
@@ -27,14 +24,12 @@ class Solution {
                 if (stack.peek().count == k) {
                     stack.pop();
                 }
-
             } 
             // Different character
             else {
                 stack.push(new Pair(ch, 1));
             }
         }
-
         // Build answer
         StringBuilder ans = new StringBuilder();
 
@@ -46,7 +41,6 @@ class Solution {
                 ans.append(p.ch);
             }
         }
-
         // Stack is popped from top, so reverse the result
         return ans.reverse().toString();
     }
