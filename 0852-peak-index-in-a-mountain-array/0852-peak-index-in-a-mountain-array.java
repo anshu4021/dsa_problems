@@ -5,7 +5,7 @@ class Solution {
         int low = 0;
         int high = arr.length - 1;
 
-        while (low < high) {
+        while (low <= high) {
 
             int mid = low + (high - low) / 2;
 
@@ -13,6 +13,7 @@ class Solution {
                 low = mid + 1;
             } else {
                 high = mid;
+                high = high -1;
             }
         }
 
