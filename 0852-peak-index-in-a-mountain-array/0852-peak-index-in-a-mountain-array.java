@@ -13,7 +13,7 @@ class Solution {
                 low = mid + 1;
             } else {
                 high = mid;
-                high = high -1;
+                high = mid-1;
             }
         }
 
