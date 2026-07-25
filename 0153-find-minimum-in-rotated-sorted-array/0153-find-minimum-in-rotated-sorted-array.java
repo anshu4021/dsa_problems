@@ -1,5 +1,26 @@
 class Solution {
     public int findMin(int[] nums) {
+        int low = 0;
+        int high = nums.length - 1;
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] > nums[high]) {
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
+        }
+
+        return nums[low];
+    }
+}
+
+
+
+/*class Solution {
+    public int findMin(int[] nums) {
         int n = nums.length;
 
         // Already sorted
@@ -39,4 +60,4 @@ reverse(nums, 0, n - 1);
             end --;
           }
       }
-}
+}*/
