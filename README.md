@@ -116,6 +116,7 @@
 | [0162-find-peak-element](https://github.com/anshu4021/dsa_problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/anshu4021/dsa_problems/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/anshu4021/dsa_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anshu4021/dsa_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshu4021/dsa_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshu4021/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -193,4 +194,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshu4021/dsa_problems/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anshu4021/dsa_problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
