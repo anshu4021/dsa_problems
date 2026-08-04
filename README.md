@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/anshu4021/dsa_problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshu4021/dsa_problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/anshu4021/dsa_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anshu4021/dsa_problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/anshu4021/dsa_problems/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@
 | [0056-merge-intervals](https://github.com/anshu4021/dsa_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anshu4021/dsa_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anshu4021/dsa_problems/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -100,6 +102,7 @@
 | [0141-linked-list-cycle](https://github.com/anshu4021/dsa_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshu4021/dsa_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshu4021/dsa_problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/anshu4021/dsa_problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anshu4021/dsa_problems/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -157,6 +160,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshu4021/dsa_problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -166,6 +170,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu4021/dsa_problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anshu4021/dsa_problems/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshu4021/dsa_problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -200,4 +205,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anshu4021/dsa_problems/tree/master/0374-guess-number-higher-or-lower) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anshu4021/dsa_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
