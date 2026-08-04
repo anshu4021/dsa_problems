@@ -56,6 +56,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/anshu4021/dsa_problems/tree/master/0986-interval-list-intersections) |
+| [1768-merge-strings-alternately](https://github.com/anshu4021/dsa_problems/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshu4021/dsa_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -142,6 +143,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anshu4021/dsa_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1768-merge-strings-alternately](https://github.com/anshu4021/dsa_problems/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
