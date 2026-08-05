@@ -5,7 +5,7 @@ class Solution {
         
         int left = 0;
         int right = n - 1;
-        int k = n - 1; // Start filling result from the end (largest to smallest)
+        int k = n - 1; 
         
         while (left <= right) {
             int leftSquare = nums[left] * nums[left];
