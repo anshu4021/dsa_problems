@@ -58,6 +58,7 @@
 | [0202-happy-number](https://github.com/anshu4021/dsa_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anshu4021/dsa_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshu4021/dsa_problems/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/anshu4021/dsa_problems/tree/master/0986-interval-list-intersections) |
@@ -67,6 +68,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshu4021/dsa_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -154,6 +156,7 @@
 | [0020-valid-parentheses](https://github.com/anshu4021/dsa_problems/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anshu4021/dsa_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/anshu4021/dsa_problems/tree/master/1768-merge-strings-alternately) |
@@ -199,6 +202,7 @@
 | [0020-valid-parentheses](https://github.com/anshu4021/dsa_problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshu4021/dsa_problems/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anshu4021/dsa_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
