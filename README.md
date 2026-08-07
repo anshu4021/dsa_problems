@@ -41,6 +41,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/anshu4021/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anshu4021/dsa_problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshu4021/dsa_problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshu4021/dsa_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anshu4021/dsa_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anshu4021/dsa_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshu4021/dsa_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -178,6 +179,7 @@
 | [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anshu4021/dsa_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshu4021/dsa_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/anshu4021/dsa_problems/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
