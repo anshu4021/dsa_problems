@@ -21,3 +21,25 @@ class Solution {
 
     }
 }
+
+/*Initialize:
+low = 0
+mid = 0
+high = n - 1
+
+While (mid <= high)
+
+    If nums[mid] == 0
+        Swap(nums[low], nums[mid])
+        low++
+        mid++
+
+    Else if nums[mid] == 1
+        mid++
+
+    Else (nums[mid] == 2)
+        Swap(nums[mid], nums[high])
+        high--
+        // Do NOT increment mid as the new number can be 1 , 0 either example dry run 120
+
+Return array*/
