@@ -62,6 +62,7 @@
 | [0202-happy-number](https://github.com/anshu4021/dsa_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anshu4021/dsa_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshu4021/dsa_problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshu4021/dsa_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/anshu4021/dsa_problems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshu4021/dsa_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anshu4021/dsa_problems/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anshu4021/dsa_problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
