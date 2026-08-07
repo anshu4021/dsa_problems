@@ -239,4 +239,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anshu4021/dsa_problems/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anshu4021/dsa_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
