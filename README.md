@@ -41,6 +41,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anshu4021/dsa_problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshu4021/dsa_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anshu4021/dsa_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshu4021/dsa_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshu4021/dsa_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
