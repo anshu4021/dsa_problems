@@ -87,6 +87,7 @@
 | [0069-sqrtx](https://github.com/anshu4021/dsa_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anshu4021/dsa_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anshu4021/dsa_problems/tree/master/0202-happy-number) |
+| [0441-arranging-coins](https://github.com/anshu4021/dsa_problems/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anshu4021/dsa_problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshu4021/dsa_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshu4021/dsa_problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/anshu4021/dsa_problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anshu4021/dsa_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshu4021/dsa_problems/tree/master/0852-peak-index-in-a-mountain-array) |
