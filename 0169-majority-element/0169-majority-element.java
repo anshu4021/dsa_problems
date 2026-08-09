@@ -1,16 +1,21 @@
+// class Solution {
+//     public int majorityElement(int[] nums) {
+//         int majority = nums[0];
+//         int count = 1;
+//         for(int i = 1;i<nums.length;i++){
+//             if(count == 0){
+//                 majority = nums[i];
+//                 count++;
+//             }else if(nums[i] == majority){
+//                 count++;
+//             }else{
+//                 count--;
+//             }
+//         }return majority;
+//     }
+// }
 class Solution {
-    public int majorityElement(int[] nums) {
-        int majority = nums[0];
-        int count = 1;
-        for(int i = 1;i<nums.length;i++){
-            if(count == 0){
-                majority = nums[i];
-                count++;
-            }else if(nums[i] == majority){
-                count++;
-            }else{
-                count--;
-            }
-        }return majority;
-    }
-}
+   public int majorityElement(int[] nums) {
+    Arrays.sort(nums);
+    return nums[(nums.length-1)/2];
+   }}
