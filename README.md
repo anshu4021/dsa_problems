@@ -30,6 +30,7 @@
 | [0525-contiguous-array](https://github.com/anshu4021/dsa_problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshu4021/dsa_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anshu4021/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/anshu4021/dsa_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anshu4021/dsa_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anshu4021/dsa_problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/anshu4021/dsa_problems/tree/master/0739-daily-temperatures) |
@@ -163,6 +164,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshu4021/dsa_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu4021/dsa_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/anshu4021/dsa_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/anshu4021/dsa_problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshu4021/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshu4021/dsa_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
