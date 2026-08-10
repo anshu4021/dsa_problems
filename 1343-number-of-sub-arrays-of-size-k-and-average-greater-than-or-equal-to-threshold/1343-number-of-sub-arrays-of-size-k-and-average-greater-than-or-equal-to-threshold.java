@@ -3,15 +3,14 @@ class Solution {
     {
         int n = arr.length;
 
-        int left = 0;
+        int low = 0;
         int sum = 0;
         int windowCount = 0;
 
-        for(int right = 0; right < n; right++)
-        {
-            sum = sum + arr[right];
+        for(int high= 0; high < n; high++)
+        {   sum = sum + arr[high];
 
-            int windowSize = right - left + 1;
+            int windowSize = high - low + 1;
 
             if(windowSize == k)
             {
@@ -20,8 +19,8 @@ class Solution {
                     windowCount++;
                 }
                 
-                sum = sum - arr[left];
-                left++;
+                sum = sum - arr[low];
+                low++;
             }
         }
   
