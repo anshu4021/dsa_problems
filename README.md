@@ -195,6 +195,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshu4021/dsa_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anshu4021/dsa_problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/anshu4021/dsa_problems/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anshu4021/dsa_problems/tree/master/0392-is-subsequence) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshu4021/dsa_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshu4021/dsa_problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/anshu4021/dsa_problems/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/anshu4021/dsa_problems/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/anshu4021/dsa_problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
