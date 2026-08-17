@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/anshu4021/dsa_problems/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshu4021/dsa_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anshu4021/dsa_problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/anshu4021/dsa_problems/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshu4021/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -248,6 +250,7 @@
 | [0020-valid-parentheses](https://github.com/anshu4021/dsa_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshu4021/dsa_problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/anshu4021/dsa_problems/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/anshu4021/dsa_problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anshu4021/dsa_problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anshu4021/dsa_problems/tree/master/0739-daily-temperatures) |
