@@ -22,7 +22,11 @@ class Solution {
             sb.insert(0, "/" + st.pop());
         }
 
-         return sb.length() == 0 ? "/" : sb.toString();    
+       if (sb.length() == 0) {
+    return "/";
+       } else {
+    return sb.toString();
+}  
           
     }
 }
