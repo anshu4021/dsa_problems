@@ -47,6 +47,7 @@
 | [0986-interval-list-intersections](https://github.com/anshu4021/dsa_problems/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshu4021/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anshu4021/dsa_problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshu4021/dsa_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshu4021/dsa_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshu4021/dsa_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshu4021/dsa_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -168,6 +169,7 @@
 | [0704-binary-search](https://github.com/anshu4021/dsa_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshu4021/dsa_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshu4021/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshu4021/dsa_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshu4021/dsa_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
