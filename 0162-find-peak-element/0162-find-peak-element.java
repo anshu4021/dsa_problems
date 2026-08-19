@@ -11,9 +11,7 @@ class Solution {
         }
         for(int i = 1;i<nums.length-1;i++){
               if(nums[i]>nums[i-1] && nums[i]>nums[i+1]){
-                peak = i;
+                return i;
               }
-        }
-        return peak;
-    }
-}
+        }return -1;
+    }}
