@@ -285,6 +285,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/anshu4021/dsa_problems/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/anshu4021/dsa_problems/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
