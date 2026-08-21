@@ -124,6 +124,7 @@
 | [0206-reverse-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anshu4021/dsa_problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -131,6 +132,7 @@
 | [0203-remove-linked-list-elements](https://github.com/anshu4021/dsa_problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/anshu4021/dsa_problems/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,12 +270,14 @@
 | [0844-backspace-string-compare](https://github.com/anshu4021/dsa_problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshu4021/dsa_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anshu4021/dsa_problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshu4021/dsa_problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anshu4021/dsa_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshu4021/dsa_problems/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/anshu4021/dsa_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Interactive
 |  |
 | ------- |
